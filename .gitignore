@@ -28,6 +28,7 @@ build/
 Thumbs.db
 
 # 其他文件
+packages/
 *.rs
 *.cs
 *.java
