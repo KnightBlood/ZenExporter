@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# 虚拟环境
+.venv/
+env/
+
+# 日志和数据
+*.log
+img/
+*.xlsx
+
+# 打包文件
+build/
+*.exe
+*.spec
+*.rar
+
+# IDE配置
+.vscode/
+.idea/
+*.iml
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 其他文件
+*.rs
+*.cs
+*.java
+*.go
